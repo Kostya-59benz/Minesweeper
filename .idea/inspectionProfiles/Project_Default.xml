@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Classes.a03bЬfd25e8cd0364141" />
+          <option value="Classes.Oxfffffffffffffffffffffffffffffffebaaedce6af48" />
+          <option value="Classes.Ox79be667ef9dcbbac55a06295ce870b07029bfcdЬ2dce28d959f2815Ыбf81798" />
+          <option value="Classes.Ox483ada7726a3c4655da4fbfc0el108aBfd17b448a68554199c47dOBffЫOd4b8" />
+          <option value="Classes.a03bbfd25e8cd0364141" />
+          <option value="Classes.Ox79be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b1бf81798" />
+          <option value="Classes.Ox483ada7726a3c4655da4fbfc0e1108a8fd17b448a68554199c47dOBffb1Od4b8" />
+          <option value="Classes.Oxfffffffffffffffffffffffffffffffebaaedce6af48a03" />
+          <option value="Classes.bbfd25e8cd0364141" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
